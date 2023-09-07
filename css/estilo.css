@@ -16,6 +16,8 @@ list-style-type: none;
 
 header{
     background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
 }
 .hero{
     background-color: aquamarine;
