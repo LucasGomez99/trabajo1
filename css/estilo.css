@@ -13,25 +13,48 @@ ul{
 list-style-type: none;
 }
 
+img{
+    width: 25px;
+}
 
 header{
     background-color: aqua;
     display: flex;
     justify-content: space-evenly;
 }
+
 .hero{
     background-color: aquamarine;
     display: flex;
 }
+
+.alineardoble{
+    display: flex;
+}
+
 .featuredlisting{
     background-color: cyan;
+    display: flex;
+    flex-direction: column;
 }
+
+.featuredlisting .contenedorcards{
+    display: flex;
+}
+
+.featuredlisting .alineardoble{
+display: flex;
+}
+
 .ourvision{
     background-color: salmon
 }
+
 .easysteptobuy{
     background-color: greenyellow;
 }
+
 .choose{
     background-color: darkorchid;
 }
+
