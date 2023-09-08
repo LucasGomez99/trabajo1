@@ -47,7 +47,8 @@ display: flex;
 }
 
 .ourvision{
-    background-color: salmon
+    background-color: salmon;
+    display: flex;
 }
 
 .easysteptobuy{
@@ -57,4 +58,5 @@ display: flex;
 .choose{
     background-color: darkorchid;
 }
+
 
