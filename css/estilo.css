@@ -21,11 +21,13 @@ header{
     background-color: aqua;
     display: flex;
     justify-content: space-evenly;
+    height: 3rem;
 }
 
 .hero{
     background-color: aquamarine;
-    display: flex;
+display: flex;
+height: 100vh;
 }
 
 
@@ -33,21 +35,25 @@ header{
     background-color: cyan;
     display: flex;
     flex-direction: column;
+    padding: 4.5rem 0;
 }
 
 .ourvision{
     background-color: salmon;
     display: flex;
+    padding: 4.5rem 0;
 }
 
 .easysteptobuy{
     background-color: greenyellow;
+    padding: 4.5rem 0;
 
 }
 
 .choose{
     background-color: darkorchid;
     display: flex;
+    padding: 4.5rem 0;
 }
 
 /*sección para clases*/
