@@ -28,22 +28,11 @@ header{
     display: flex;
 }
 
-.alineardoble{
-    display: flex;
-}
 
 .featuredlisting{
     background-color: cyan;
     display: flex;
     flex-direction: column;
-}
-
-.featuredlisting .contenedorcards{
-    display: flex;
-}
-
-.featuredlisting .alineardoble{
-display: flex;
 }
 
 .ourvision{
@@ -53,10 +42,22 @@ display: flex;
 
 .easysteptobuy{
     background-color: greenyellow;
+
 }
 
 .choose{
     background-color: darkorchid;
 }
+
+/*sección para clases*/
+
+.alineardoble{
+display: flex;
+}
+
+.contenedordeflex{
+    display: flex;
+}
+
 
 
