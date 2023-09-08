@@ -21,6 +21,7 @@ header{
 }
 .hero{
     background-color: aquamarine;
+    display: flex;
 }
 .featuredlisting{
     background-color: cyan;
