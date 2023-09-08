@@ -14,7 +14,7 @@ list-style-type: none;
 }
 
 img{
-    width: 25px;
+    width: 90px;
 }
 
 header{
@@ -47,6 +47,7 @@ header{
 
 .choose{
     background-color: darkorchid;
+    display: flex;
 }
 
 /*sección para clases*/
